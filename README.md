@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 #  Hi, I'm Rian! 👋
 
 👩🏻‍💻 Software Engineer sharing about my hobby and learnings in tech<br/>
