@@ -2,13 +2,14 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AA9E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rian+%F0%9F%91%8B;Fullstack+Developer;Laravel+%7C+React+%7C+Next.js+%7C+Golang;Building+Knalpot+Apps+%26+Momentum+Padel+Series" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AA9E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rian+%F0%9F%91%8B;Software+Engineer+%2F+Fullstack+Developer;2%2B+Years+of+Experience;Laravel+%7C+React+%7C+Next.js+%7C+Golang;Building+Knalpot+Apps+%26+Momentum+Padel+Series" alt="Typing SVG" /></a>
 
 </div>
 
 #  Hi, I'm Rian! 👋
 
-💻 Fullstack Developer, running my own dev shop (Techworksnesia / Jenderal Software)<br/>
+💻 Software Engineer / Fullstack Developer, 2+ years of experience<br/>
+🏢 Running my own dev shop (Techworksnesia / Jenderal Software)<br/>
 🎓 Informatics graduate from Universitas Jenderal Soedirman, Indonesia 🇮🇩<br/>
 🚀 Building **Knalpot Apps** (e-commerce platform, Go + React + Next.js monorepo)<br/>
 🎾 Also run **Momentum Padel Series**, an event organizing brand for padel tournaments<br/>
@@ -60,9 +61,19 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmad-rian&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmad-rian&theme=onedark&no-bg=true&margin-w=15&row=2&column=4" />
 
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ahmad-rian/ahmad-rian/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
+> ⚠️ Snake di atas baru muncul setelah GitHub Action `snake.yml` (ada di folder `.github/workflows/`) jalan minimal sekali. Lihat instruksi setup di bagian bawah chat.
 
 ---
 <div align="center">
