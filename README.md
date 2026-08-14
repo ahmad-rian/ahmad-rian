@@ -57,23 +57,25 @@
 
 </div>
 
-## 🏆 Trophies
+## 🧰 Skills
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmad-rian&theme=onedark&no-bg=true&margin-w=15&row=2&column=4" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,go,python,react,nextjs,vue,laravel,tailwind,postgres,mysql,supabase,docker,nginx,figma,git,github&theme=dark" />
 
 </div>
 
-## 🐍 Contribution Snake
+## 🚧 Currently Building
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahmad-rian/ahmad-rian/output/github-contribution-grid-snake.svg" alt="snake animation" />
+| Project | Description |
+|---|---|
+| **Knalpot Apps** | E-commerce platform for aftermarket exhaust products, Go + React + Next.js monorepo with RajaOngkir & DOKU integration |
+| **Momentum Padel Series** | Event organizing brand for padel tournaments across Central Java |
+| **[mariicup.com](https://mariicup.com)** | Tournament management platform for padel events |
 
 </div>
-
-> ⚠️ Snake di atas baru muncul setelah GitHub Action `snake.yml` (ada di folder `.github/workflows/`) jalan minimal sekali. Lihat instruksi setup di bagian bawah chat.
 
 ---
 <div align="center">
