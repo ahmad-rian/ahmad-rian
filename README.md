@@ -3,7 +3,6 @@
 #  Hi, I'm Rian! 👋
 
 👩🏻‍💻 Software Engineer sharing about my hobby and learnings in tech<br/>
-🎓 A Student Informatics at Jenderal Soedriman University, Indonesia 🇮🇩<br/>
 🚀 Mentor of Informatics and Mathematics Olympiad Indonesia <br/>
 💭 Experienced in Laravel and React <br/>
 🛠️ Currently learning about Machine Learning , Next.js and Supabase  <br/>
