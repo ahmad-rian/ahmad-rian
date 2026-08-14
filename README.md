@@ -12,7 +12,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rian_syaifullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-rian)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alriansr@gmail.com) 
 
-Check it Out me on LinkedIn or check out my portfolio at 🌐 https://www.ahmadrian.site/
+Check it Out me on LinkedIn or check out my portfolio at 🌐 https://ahmadrian.my.id/
 
 
 # 💻 Tech Stack
