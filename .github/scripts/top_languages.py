@@ -8,6 +8,7 @@ GITHUB_TOKEN.
 import json
 import os
 import sys
+import urllib.error
 import urllib.request
 from html import escape
 
@@ -103,7 +104,11 @@ def main():
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
         sys.exit("GITHUB_TOKEN is not set")
-    totals = language_totals(token)
+    try:
+        totals = language_totals(token)
+    except urllib.error.HTTPError as error:
+        sys.exit(f"GitHub API {error.code} for {error.url}: needs a personal "
+                 "access token with `repo` scope in SUMMARY_GITHUB_TOKEN")
     if not totals:
         sys.exit("No language data returned; check the token's repo scope")
     os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
