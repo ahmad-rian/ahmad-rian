@@ -42,10 +42,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmad-rian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-rian&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-rian&theme=tokyonight&hide_border=true" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="Stats" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" alt="Productive time" />
+
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="Repos per language" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Most commit language" />
 
 </div>
 
@@ -53,7 +56,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-rian&theme=tokyo-night&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-rian/ahmad-rian/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-rian/ahmad-rian/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ahmad-rian/ahmad-rian/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -80,6 +87,6 @@
 ---
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=ahmad-rian&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=ahmad-rian&label=Profile%20views&color=7aa2f7&style=for-the-badge)
 
 </div>
