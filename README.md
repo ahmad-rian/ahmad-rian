@@ -94,6 +94,10 @@
 |---|---|
 | **Knalpot Apps** | E-commerce platform for aftermarket exhaust products, Go + React + Next.js monorepo with RajaOngkir & DOKU integration |
 | **[mariicup.com](https://mariicup.com)** | Tournament management platform for padel events |
+| **Momentum Padel Series** | Multi-tenant padel tournament platform: registration, brackets, real-time live score, plus a standalone [referee scoring & TV scoreboard](https://scoring-momentum.vercel.app) app |
+| **Kothak Photobox** | Self-service photobooth: Laravel admin & guest gallery, Electron booth app, DOKU payment and Google Drive upload |
+| **Tyas Studio** | Photo studio workflow: Windows desktop app tethered to Canon cameras (EDSDK, RAW capture, live view) with automatic upload to Google Drive |
+| **Absensi Sekolah** | School attendance system: card scans, prayer attendance, leave requests, parent notifications and a super-admin attendance monitor |
 
 </div>
 
