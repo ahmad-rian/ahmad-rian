@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AA9E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rian+%F0%9F%91%8B;Software+Engineer+%2F+Fullstack+Developer;2%2B+Years+of+Experience;Laravel+%7C+React+%7C+Next.js+%7C+Golang;Building+Knalpot+Apps+%26+Momentum+Padel+Series" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2AA9E0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rian+%F0%9F%91%8B;Software+Engineer+%2F+Fullstack+Developer;2%2B+Years+of+Experience;Laravel+%7C+React+%7C+Next.js+%7C+Golang;Building+Presisi+LMS+%26+Arah+Photobox" alt="Typing SVG" /></a>
 
 </div>
 
@@ -11,7 +11,8 @@
 💻 Software Engineer / Fullstack Developer, 2+ years of experience<br/>
 🏢 Running my own dev shop (Techworksnesia / Jenderal Software)<br/>
 🎓 Informatics graduate from Universitas Jenderal Soedirman, Indonesia 🇮🇩<br/>
-🚀 Building **Knalpot Apps** (e-commerce platform, Go + React + Next.js monorepo)<br/>
+🚀 Building the **Presisi Academy** platform (LMS + CBT) and **Arah Photobox**<br/>
+✅ Shipped **Knalpot Apps** and **mariicup.com**<br/>
 🎾 Also run **Momentum Padel Series**, an event organizing brand for padel tournaments<br/>
 🛠️ Stack: Laravel, React, Next.js, Vue/Nuxt, Golang/Gin, Python (data/ML), PostgreSQL, Docker<br/>
 📫 Open to freelance, contract, and full-time opportunities
@@ -78,8 +79,20 @@
 
 | Project | Description |
 |---|---|
+| **[Presisi Academy](https://presisiacademy.id)** | Company profile & CMS for OSN coaching, Next.js 16 + Go/Gin + PostgreSQL |
+| **LMS Presisi** | Learning management system with a single Presisi Account (Keycloak SSO), Go + Next.js |
+| **PENA CBT** | Computer-based test platform for Presisi Academy, synced with the LMS |
+| **Arah Photobox** | Self-service photobooth: Laravel 13 + Inertia/React admin & guest gallery, Electron booth app with Canon EDSDK |
+
+</div>
+
+## ✅ Recently Shipped
+
+<div align="center">
+
+| Project | Description |
+|---|---|
 | **Knalpot Apps** | E-commerce platform for aftermarket exhaust products, Go + React + Next.js monorepo with RajaOngkir & DOKU integration |
-| **Momentum Padel Series** | Event organizing brand for padel tournaments across Central Java |
 | **[mariicup.com](https://mariicup.com)** | Tournament management platform for padel events |
 
 </div>
