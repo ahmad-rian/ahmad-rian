@@ -23,6 +23,6 @@ jobs:
           BRANCH_NAME: main
           TIME_ZONE: Asia/Jakarta
           THEME: tokyonight
-          # Buang bahasa markup/template biar Go dkk kelihatan di kartu bahasa
-          EXCLUDE: HTML,CSS,Blade,Shell,Makefile,Batchfile,FreeMarker,PLpgSQL
+          # Buang markup/template & bahasa minor biar Go kelihatan di kartu bahasa
+          EXCLUDE: HTML,CSS,Blade,Shell,Makefile,Batchfile,FreeMarker,PLpgSQL,Dart,Vue,C++,Jupyter Notebook,Ruby
           ANIMATION: load
