@@ -12,6 +12,8 @@ jobs:
   cards:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
         env:
           # Pakai PAT (SUMMARY_GITHUB_TOKEN) kalau ada, fallback ke token bawaan
