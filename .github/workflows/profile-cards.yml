@@ -26,3 +26,18 @@ jobs:
           # Buang markup/template & bahasa minor biar Go kelihatan di kartu bahasa
           EXCLUDE: HTML,CSS,Blade,Shell,Makefile,Batchfile,FreeMarker,PLpgSQL,Dart,Vue,C++,Jupyter Notebook,Ruby
           ANIMATION: load
+
+      # Kartu bahasa sendiri: baca semua repo termasuk private (Go ada di repo private)
+      - name: Generate top languages card
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/top_languages.py
+
+      - name: Commit top languages card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash origin main
+          git add assets/top-languages.svg
+          git diff --cached --quiet || git commit -m "chore: update top languages card"
+          git push origin main

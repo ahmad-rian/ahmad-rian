@@ -48,8 +48,7 @@
 <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="Stats" />
 <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" height="180" alt="Productive time" />
 
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="180" alt="Repos per language" />
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Most commit language" />
+<img src="assets/top-languages.svg" height="180" alt="Top languages" />
 
 </div>
 

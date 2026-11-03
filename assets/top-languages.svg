@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195">
+<style>
+.title { font: 600 20px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+.lang { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+.pct { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #a9b1d6; }
+.note { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #a9b1d6; }
+</style>
+<rect width="467" height="195" rx="6" fill="#1a1b27"/>
+<text x="25" y="40" class="title">Top Languages</text>
+<text x="442" y="40" class="note" text-anchor="end">all repos, incl. private</text>
+<clipPath id="bar"><rect x="25" y="62" width="417" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)"><rect x="25.00" y="62" width="249.59" height="10" fill="#3178c6"/><rect x="274.59" y="62" width="90.31" height="10" fill="#4F5D95"/><rect x="364.90" y="62" width="33.99" height="10" fill="#f1e05a"/><rect x="398.89" y="62" width="30.72" height="10" fill="#00ADD8"/><rect x="429.61" y="62" width="6.48" height="10" fill="#3572A5"/><rect x="436.09" y="62" width="2.80" height="10" fill="#00B4AB"/></g>
+<circle cx="30" cy="96" r="5" fill="#3178c6"/><text x="43" y="100" class="lang">TypeScript</text><text x="215" y="100" class="pct" text-anchor="end">59.9%</text><circle cx="245" cy="96" r="5" fill="#4F5D95"/><text x="258" y="100" class="lang">PHP</text><text x="430" y="100" class="pct" text-anchor="end">21.7%</text><circle cx="30" cy="124" r="5" fill="#f1e05a"/><text x="43" y="128" class="lang">JavaScript</text><text x="215" y="128" class="pct" text-anchor="end">8.2%</text><circle cx="245" cy="124" r="5" fill="#00ADD8"/><text x="258" y="128" class="lang">Go</text><text x="430" y="128" class="pct" text-anchor="end">7.4%</text><circle cx="30" cy="152" r="5" fill="#3572A5"/><text x="43" y="156" class="lang">Python</text><text x="215" y="156" class="pct" text-anchor="end">1.6%</text><circle cx="245" cy="152" r="5" fill="#00B4AB"/><text x="258" y="156" class="lang">Dart</text><text x="430" y="156" class="pct" text-anchor="end">0.7%</text>
+</svg>
