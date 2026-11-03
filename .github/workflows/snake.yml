@@ -19,6 +19,8 @@ jobs:
         id: snake
         with:
           github_user_name: ahmad-rian
+          # PAT biar kontribusi private ikut terhitung
+          github_token: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
